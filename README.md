@@ -35,7 +35,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 ## socials
 
-sub reddit: https://www.reddit.com/r/Inkscii/
+sub reddit: https://www.reddit.com/r/Inkscii/ \n
 discord server: https://discord.gg/a7ChHMvA7B
 
 ## License
