@@ -33,10 +33,11 @@ Inkscii is an ASCII game framework designed to simplify the development of ASCII
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## socials
+## Socials
 
-sub reddit: https://www.reddit.com/r/Inkscii/ \n
-discord server: https://discord.gg/a7ChHMvA7B
+- Subreddit: [r/Inkscii](https://www.reddit.com/r/Inkscii/)
+- Discord Server: [Join Here](https://discord.gg/a7ChHMvA7B)
+
 
 ## License
 
